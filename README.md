@@ -43,6 +43,7 @@ Method found: myMethod2
 
 
 ## extract_methods.sh (Bash Script)
+- [script](extract_methods.sh)
 
 ## Purpose
 
